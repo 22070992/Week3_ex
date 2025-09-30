@@ -1,5 +1,5 @@
 <?php
-include "connection.php";
+include "connect.php";
 $id=$_GET["id"];
 $brand="";
 $model="";
